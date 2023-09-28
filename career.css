@@ -16,7 +16,8 @@ body {
     justify-content: center;
     margin: 8px;
   }
-
+.me{
+    text-align:center;
   button:hover {
     cursor: pointer;
     background: palegreen;
