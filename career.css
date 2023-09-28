@@ -17,7 +17,7 @@ body {
     margin: 8px;
   }
 .me{
-    text-align:center;
+    text-align:center;}
   button:hover {
     cursor: pointer;
     background: palegreen;
